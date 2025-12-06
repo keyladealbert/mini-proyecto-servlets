@@ -1,0 +1,10 @@
+com\estudiantes\model\Estudiante.class
+com\estudiantes\config\ConexionBD.class
+com\estudiantes\model\Usuario.class
+com\estudiantes\servlets\EstudianteServlet.class
+com\estudiantes\servlets\LoginServlet.class
+com\estudiantes\dao\UsuarioDAO.class
+com\estudiantes\servlets\LogoutServlet.class
+com\mycompany\proyectoservlets\JakartaRestConfiguration.class
+com\estudiantes\dao\EstudianteDAO.class
+com\mycompany\proyectoservlets\resources\JakartaEE10Resource.class
